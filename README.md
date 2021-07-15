@@ -17,6 +17,8 @@
   
   # Usage 
   After installing the dependencies, open a new schema in your SQL workbench and run the database from the db folder. Run the seeds folder by running ``` node seeds/index.js ```in your command line. Refresh the schema in the SQL workbench to see if seeds were imported succesfully. Next run your local server by running ``` node server.js ``` in your command line. Once the server is running open Insomnia and create a new request, then plug in the url ``` localhost:3000/api/categories ``` with the GET method selected to get all categories. Change the api parameter to switch between the routes and the methods to either GET, POST and PUT to retrieve, add or update. enjoy! 
+
+  https://github.com/jjarquin1/e-commerce-backEnd
   
   # Licence
   ![License](https://img.shields.io/badge/License-ISC-blue.svg)
@@ -28,6 +30,8 @@
  
   # Tests
   To test this application install insomnia and follow the instructions above. 
+
+  https://insomnia.rest/
   
   ## Questions
   Please reach out through the following for any inquiries
